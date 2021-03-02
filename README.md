@@ -1,5 +1,5 @@
 # CG-ANER
-the implementation of paper “Incorporating Contextual Embeddings and Glyph Features for Named Entity Recognition of Agricultural Diseases and Pests”
+the implementation of paper “Incorporating Contextual Embeddings and Glyph Features for Agricultural Named Entity Recognition”
 
 
 # Fine-tuning BERT mdoels
